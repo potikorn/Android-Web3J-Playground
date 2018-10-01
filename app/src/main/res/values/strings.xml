@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">web3j Playground</string>
+    <string name="action_next">Next</string>
 </resources>
